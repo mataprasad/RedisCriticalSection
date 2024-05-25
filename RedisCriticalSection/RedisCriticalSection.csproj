@@ -8,6 +8,11 @@
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Title>RedisCriticalSection</Title>
         <Authors>Mata Prasad Chauhan</Authors>
+        <PackageVersion>1.0.1</PackageVersion>
+        <Description>A library for managing critical sections using Redis.</Description>
+        <PackageProjectUrl>https://github.com/mataprasad/RedisCriticalSection</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/mataprasad/RedisCriticalSection</RepositoryUrl>
+        <PackageTags>Redis, Locks, RedisCriticalSection, Critical Section</PackageTags>
     </PropertyGroup>
 
     <ItemGroup>
