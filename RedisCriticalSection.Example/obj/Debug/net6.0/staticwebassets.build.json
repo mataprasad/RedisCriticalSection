@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jBr26h2Z3925CctPbkgAXAVrbDPS9KHM5PUTWHx/oAQ=",
+  "Source": "RedisCriticalSection.Example",
+  "BasePath": "_content/RedisCriticalSection.Example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RedisCriticalSection</id>
+    <version>1.0.0</version>
+    <title>RedisCriticalSection</title>
+    <authors>RedisCriticalSection</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Polly" version="8.4.0" exclude="Build,Analyzers" />
+        <dependency id="StackExchange.Redis" version="2.7.33" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/readme.txt" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="/home/chauhan/source-repo/RedisCriticalSection/RedisCriticalSection/bin/Debug/net6.0/RedisCriticalSection.dll" target="lib/net6.0/RedisCriticalSection.dll" />
+    <file src="/home/chauhan/source-repo/RedisCriticalSection/RedisCriticalSection/readme.txt" target="content/readme.txt" />
+    <file src="/home/chauhan/source-repo/RedisCriticalSection/RedisCriticalSection/readme.txt" target="contentFiles/any/net6.0/readme.txt" />
+  </files>
+</package>

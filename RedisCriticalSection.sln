@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisCriticalSection", "RedisCriticalSection\RedisCriticalSection.csproj", "{0D1A2B81-2C0B-46B5-A0CD-DC82904A21D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisCriticalSection.Example", "RedisCriticalSection.Example\RedisCriticalSection.Example.csproj", "{3A6A9D03-D136-43AB-8E10-88251A48B871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D1A2B81-2C0B-46B5-A0CD-DC82904A21D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1A2B81-2C0B-46B5-A0CD-DC82904A21D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1A2B81-2C0B-46B5-A0CD-DC82904A21D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1A2B81-2C0B-46B5-A0CD-DC82904A21D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6A9D03-D136-43AB-8E10-88251A48B871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6A9D03-D136-43AB-8E10-88251A48B871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6A9D03-D136-43AB-8E10-88251A48B871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6A9D03-D136-43AB-8E10-88251A48B871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
